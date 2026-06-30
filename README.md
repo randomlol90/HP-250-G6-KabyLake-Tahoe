@@ -2,5 +2,4 @@
 <br>
 Fully working HP 250 G6 (i3-7020U, Intel HD Graphics 620) Hackintosh EFI for Tahoe
 <br>
-Wouldnt be possible without: https://github.com/Baio1977/HP-250-G6-Kabylake
-
+Huge credits to: @Baio1977 for base EFI
